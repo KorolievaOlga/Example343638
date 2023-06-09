@@ -1,0 +1,15 @@
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.csproj.AssemblyReference.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.AssemblyInfoInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.AssemblyInfo.cs
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\bin\Debug\net6.0\Example38.exe
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\bin\Debug\net6.0\Example38.deps.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\bin\Debug\net6.0\Example38.runtimeconfig.json
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\bin\Debug\net6.0\Example38.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\bin\Debug\net6.0\Example38.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\refint\Example38.dll
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.pdb
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\Example38.genruntimeconfig.cache
+C:\Users\5\Desktop\Обучение\Знакомство с языками программирования С#\Семинары\Папка с задачами\DZ 5 C#\Example38\obj\Debug\net6.0\ref\Example38.dll
